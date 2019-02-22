@@ -15,7 +15,7 @@ printf("Value = %d",read);
 void func()
 {
 int divide_val;
-int val;
+int val=5;
 divide_val = val/0;
 printf("Divide Value = %d",divide_val);
 }
